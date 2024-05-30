@@ -51,6 +51,9 @@ const SignIn = () => {
         <button type="submit" style={{ width: '100%', padding: '10px', backgroundColor: '#007bff', color: '#fff', border: 'none', cursor: 'pointer' }}>
           Sign In
         </button>
+        <button>
+          Reset
+        </button>
       </form>
     </div>
   );
